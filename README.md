@@ -24,5 +24,3 @@ This project uses Node.js, Express and MySQL.
 
 Change the `.env` values if your MySQL installation uses different settings.
 
-## Important
-Do not upload `.env` to GitHub. Keep `.env.example` in the repository as a configuration template.
